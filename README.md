@@ -1,7 +1,7 @@
 Potato
 ======
 
-[![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
+[![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/VH4ssqd69g)
 
 If you fork this you can say that you forked a potato.
 
